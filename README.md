@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbldev&label=Profile%20views&color=0e75b6&style=flat" alt="akbldev" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbldev" alt="akbldev" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🔭 I’m currently working on **ECOWATT E-Shop**
 
 - 🌱 I’m currently learning **Laravel,Python,VueJS**
@@ -14,6 +18,10 @@
 - 💬 Ask me about **ReactJS ,Angular , NextJS**
 
 - 📫 How to reach me **a.blila@ecowatt.ma**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +38,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akbldev&show_icons=true&locale=en&layout=compact" alt="akbldev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akbldev&show_icons=true&locale=en" alt="akbldev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbldev&" alt="akbldev" /></p>
